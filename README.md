@@ -1,5 +1,7 @@
 # 三步就能看懂起点？MITCE 把手机和电脑放到了一条线上
 
+官网：[www.mitce.shop](https://www.mitce.shop)
+
 [![MITCE 页面主视觉](assets/og-image.png)](https://www.mitce.shop)
 
 有些人不是怕设置，而是怕手机一套说明、电脑又是另一套。MITCE 的公开页面把两类设备写进同一套三步连接流程。这个安排很利落：先给出共同路径，再让用户按设备继续核对。
